@@ -20,3 +20,5 @@ Polkadot Blockchain Academy - Wave 2 online / April 2025
 ## Polkadot Blockchain Academy
 
 [PBA](https://github.com/Polkadot-Blockchain-Academy)
+
+[PBA book](https://github.com/Polkadot-Blockchain-Academy/pba-book)
