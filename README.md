@@ -16,3 +16,5 @@ Polkadot Blockchain Academy - Wave 2 online / April 2025
 - [ ] [Build your own DEX](https://dotcodeschool.com/courses/build-your-own-dex)
 
 - [ ] [PBA entrance exams](https://github.com/Polkadot-Blockchain-Academy/pba-qualifier-exam)
+
+[PBA](https://github.com/Polkadot-Blockchain-Academy)
