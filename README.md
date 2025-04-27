@@ -17,4 +17,6 @@ Polkadot Blockchain Academy - Wave 2 online / April 2025
 
 - [ ] [PBA entrance exams](https://github.com/Polkadot-Blockchain-Academy/pba-qualifier-exam)
 
+## Polkadot Blockchain Academy
+
 [PBA](https://github.com/Polkadot-Blockchain-Academy)
