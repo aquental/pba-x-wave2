@@ -30,3 +30,5 @@ Polkadot Blockchain Academy - Wave 2 online / April 2025
 [GrayPaper](https://graypaper.com/)
 
 [Polkadot Staking Miner](https://github.com/paritytech/polkadot-staking-miner/tree/main)
+
+[Moonbeam's XCM docs](https://docs.moonbeam.network/builders/interoperability/xcm/overview/)
