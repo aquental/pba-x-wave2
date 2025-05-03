@@ -32,3 +32,8 @@ Polkadot Blockchain Academy - Wave 2 online / April 2025
 [Polkadot Staking Miner](https://github.com/paritytech/polkadot-staking-miner/tree/main)
 
 [Moonbeam's XCM docs](https://docs.moonbeam.network/builders/interoperability/xcm/overview/)
+
+- Asynchronous - XCM messages operate independently of sender acknowledgment, avoiding delays due to blocked processes
+- Absolute - XCM messages are guaranteed to be delivered and interpreted accurately, in order, and timely. Once a message is sent, one can be sure it will be processed as intended
+- Asymmetric - XCM messages follow the 'fire and forget' paradigm meaning no automatic feedback is provided to the sender. Any results must be communicated separately to the sender with an additional message back to the origin
+- Agnostic - XCM operates independently of the specific consensus mechanisms, making it compatible across diverse systems
