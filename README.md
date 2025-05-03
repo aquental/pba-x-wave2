@@ -5,7 +5,7 @@ Polkadot Blockchain Academy - Wave 2 online / April 2025
 - [ink!](./ink/README.md)
 - [Polkadot course (Código Brazuca) - pt-BR](./courses/README.md)
 
-## PBA-X Code 
+## PBA-X Code
 
 - [ ] [Rust State Machine](https://dotcodeschool.com/courses/rust-state-machine)
 
@@ -22,3 +22,7 @@ Polkadot Blockchain Academy - Wave 2 online / April 2025
 [PBA](https://github.com/Polkadot-Blockchain-Academy)
 
 [PBA book](https://github.com/Polkadot-Blockchain-Academy/pba-book)
+
+[DOT Token](https://polkadot.com/get-started/dot-token/)
+
+[wallets](https://polkadot.com/get-started/wallets/)
