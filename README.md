@@ -26,3 +26,7 @@ Polkadot Blockchain Academy - Wave 2 online / April 2025
 [DOT Token](https://polkadot.com/get-started/dot-token/)
 
 [wallets](https://polkadot.com/get-started/wallets/)
+
+[GrayPaper](https://graypaper.com/)
+
+[Polkadot Staking Miner](https://github.com/paritytech/polkadot-staking-miner/tree/main)
