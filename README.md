@@ -37,3 +37,10 @@ Polkadot Blockchain Academy - Wave 2 online / April 2025
 - Absolute - XCM messages are guaranteed to be delivered and interpreted accurately, in order, and timely. Once a message is sent, one can be sure it will be processed as intended
 - Asymmetric - XCM messages follow the 'fire and forget' paradigm meaning no automatic feedback is provided to the sender. Any results must be communicated separately to the sender with an additional message back to the origin
 - Agnostic - XCM operates independently of the specific consensus mechanisms, making it compatible across diverse systems
+
+## Technical Fellowship
+
+[Github](https://github.com/polkadot-fellows)
+
+- [Maninfesto](https://github.com/polkadot-fellows/manifesto/blob/main/manifesto.pdf)
+- [Working groups](https://github.com/polkadot-fellows/working-groups)
