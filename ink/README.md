@@ -1,4 +1,4 @@
-# ink!
+![ink!](./img/ink-logo-glow.svg)
 
 Ink! is an [embedded domain specific language](https://wiki.haskell.org/Embedded_domain_specific_language).
 
