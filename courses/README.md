@@ -11,7 +11,7 @@ This course is sponsored by [Código Brazuca](https://codigobrazuca.com.br/).
 - Aula 05 - [Interagindo com a rede e testes](https://youtu.be/N4W9v4m3ZAk)
 - Aula 06 - [Tech Stack e Ferramentas para DEVs](https://youtu.be/4s2Dg39y4BU)
 - Aula 07 - [Aula Polkadot Parachains e Coretime](https://youtu.be/9niiyW22rFI)
-- Aula 08 - [Polkadot Futuro da Polkadot](https://youtu.be/eoBJby4IuEg)
+- Aula 08 - [Futuro da Polkadot](https://youtu.be/eoBJby4IuEg)
 - Aula 09 - [Polkadot Kusama](https://youtu.be/rOE64bIQW5I)
 
 ## Playlist Polkadot Tooling

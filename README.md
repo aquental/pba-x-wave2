@@ -38,10 +38,20 @@ Polkadot Blockchain Academy - Wave 2 online / April 2025
 - Asymmetric - XCM messages follow the 'fire and forget' paradigm meaning no automatic feedback is provided to the sender. Any results must be communicated separately to the sender with an additional message back to the origin
 - Agnostic - XCM operates independently of the specific consensus mechanisms, making it compatible across diverse systems
 
+## Wiki
+
+- [Wiki](https://wiki.polkadot.network/general/web3-and-polkadot/)
+
 ## Technical Fellowship
 
 [Github](https://github.com/polkadot-fellows)
 
 - [Maninfesto](https://github.com/polkadot-fellows/manifesto/blob/main/manifesto.pdf)
 - [Working groups](https://github.com/polkadot-fellows/working-groups)
-- [Wiki](https://wiki.polkadot.network/general/web3-and-polkadot/)
+- [Technical Fellowship](https://wiki.polkadot.network/learn/learn-polkadot-technical-fellowship/)
+
+## Governance
+
+- [OpenGov](https://polkadot.polkassembly.io/opengov)
+- [SubSquare](https://polkadot.subsquare.io/)
+- [DOT delegation](https://polkadot.polkassembly.io/delegation)
