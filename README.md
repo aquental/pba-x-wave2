@@ -49,6 +49,8 @@ Polkadot Blockchain Academy - Wave 2 online / April 2025
 - [Maninfesto](https://github.com/polkadot-fellows/manifesto/blob/main/manifesto.pdf)
 - [Working groups](https://github.com/polkadot-fellows/working-groups)
 - [Technical Fellowship](https://wiki.polkadot.network/learn/learn-polkadot-technical-fellowship/)
+- [ ] plan action
+- [ ] network
 
 ## Governance
 
