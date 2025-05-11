@@ -52,6 +52,18 @@ Polkadot Blockchain Academy - Wave 2 online / April 2025
 - [ ] plan action
 - [ ] network
 
+1. Understand the Fellowship and Its Goals
+2. Meet the Technical Prerequisites
+   1. _Polkadot node internals_: Understand how Polkadot nodes function and their implementation details.
+   2. _Consensus algorithms_: Study BABE (Blind Assignment for Blockchain Extension) and GRANDPA (GHOST-based Recursive Ancestor Deriving Prefix Agreement).
+   3. _Cross-chain protocols_: Learn about XCMP (Cross-Chain Message Passing), HRMP, DMP, or UMP.
+   4. _Runtime and pallets_: Gain proficiency in Polkadot’s business logic, FRAME framework, or XCM (Cross-Consensus Message) specification.
+   5. _Networking and cryptography_: Understand Polkadot’s libp2p-based peer networking or cryptographic data structures.
+3. Register as a Candidate
+4. Find a Sponsor
+5. Apply for Membership (Rank I Dan)
+6. Prepare for Ongoing Commitment
+
 ## Governance
 
 - [OpenGov](https://polkadot.polkassembly.io/opengov)
