@@ -4,6 +4,7 @@ Polkadot Blockchain Academy - Wave 2 online / April 2025
 
 - [ink!](./ink/README.md)
 - [Polkadot course (Código Brazuca) - pt-BR](./courses/README.md)
+- [Encode.club Polkadot Scaling](./courses/Encode.md)
 
 ## PBA-X Code
 
