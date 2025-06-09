@@ -43,3 +43,9 @@ Pendente
 - Aula 10.1 Extra - [Tooling](https://youtu.be/Bi_91EYCVaA)
 - Aula 11 Rust - [Concorrência Básica](https://youtu.be/3zd6GxXiQLQ)
 - Aula 12 Rust - [Manipulação de Arquivo](https://youtu.be/LPX0xel_SV8)
+
+## DotCodeSchool
+
+- [Rust State Machine](./dotcodeschool-rust-state-machine/README.md)
+- [Substrate Collectables Workshop](./substrate-collectables-workshop/README.md)
+- [Polkadot-API](./dotcodeschool-papi-intro-tutorial/README.md)
