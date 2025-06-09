@@ -8,7 +8,7 @@ Polkadot Blockchain Academy - Wave 2 online / April 2025
 
 ## PBA-X Code
 
-- [ ] [Rust State Machine](https://dotcodeschool.com/courses/rust-state-machine)
+- [x] [Rust State Machine](https://dotcodeschool.com/courses/rust-state-machine)
 
 - [ ] [Substrate Kitties](https://dotcodeschool.com/courses/substrate-kitties)
 
